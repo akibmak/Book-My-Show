@@ -1,0 +1,31 @@
+# Book my show planning 🔥
+ 
+    -> WE need a reusable carousel
+        1. Common carousel
+        2. Hero carousel
+        3. Cast and Crew small carousel
+
+    -> Pages
+        1. Home Page
+        2. Movie Page
+        3. Categories Page
+        4. Auth Page
+        5. Razorpay Payment Gateway
+
+    -> How are we going to build it ??? 🤔
+        1. Layouts 
+        2. Routes 
+        3. Pages
+        4. Components
+        5. API's (TMDB, Razorpay)
+
+
+# Some Theory
+
+    //HOC
+        -> Higher order Components to handle our Layouts
+
+    //Layout First Approach
+        -> instead of whole content of the page to get updated/rendered again we only render the required changes
+            we can either use pops if changes are minimal
+            or if changes are too much we can create required Component
