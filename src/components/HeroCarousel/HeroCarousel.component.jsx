@@ -33,7 +33,7 @@ const HeroCarousel = () => {
           "https://images.unsplash.com/photo-1563381013529-1c922c80ac8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
           "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
           "https://images.unsplash.com/photo-1508427991396-70954459dcc4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
-          "https://images.unsplash.com/photo-1616530940355-351fabd9524b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bW92aWVzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
+          "https://images.unsplash.com/photo-1616097970275-1e187b4ce59f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fG1vdmllc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
       ];
 
 
@@ -64,10 +64,3 @@ const HeroCarousel = () => {
 
 export default HeroCarousel;
 
-{/* <HeroSlider {...settings}>
-                {images.map((image) => (
-                    <div className="w-20 h-80">
-                        <img src={image} alt="testing" className="w-full h-full"/>
-                    </div>
-                ))}
-                </HeroSlider> */}
