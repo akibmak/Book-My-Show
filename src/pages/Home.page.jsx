@@ -3,10 +3,11 @@ import React from "react";
 // Components
 import EntertainmentCardSlider from "../components/Entertainment/Entertainmentcard.component";
 import PosterSlider from "../components/PosterSlider/PosterSlider.component";
-import Premier from "../components/Premier/Premier.component";
+import TempPosters from "../config/TempPosters.config";
+
 
 // config
-import TempPosters from "../config/TempPosters.config";
+
 
 const HomePage = () => {
   return (
