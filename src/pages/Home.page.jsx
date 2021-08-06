@@ -4,7 +4,7 @@ import React, { useState, useEffect} from "react";
 // Components
 import EntertainmentCardSlider from "../components/Entertainment/Entertainmentcard.component";
 import PosterSlider from "../components/PosterSlider/PosterSlider.component";
-import TempPosters from "../config/TempPosters.config";
+
 
 
 // config

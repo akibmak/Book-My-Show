@@ -16,7 +16,7 @@ import { MovieContext } from "../context/movie.context";
 
 
 // configs
-import TempPosters from "../config/TempPosters.config";
+
 
 // import TempPosters from "../../config/TempPosters.config";
 
