@@ -7,7 +7,7 @@ import { MovieContext } from "../../context/movie.context";
 const MovieHero = () => {
 
 
-  const { movie } = useContext(MovieContext);
+   const { movie } = useContext(MovieContext);
   
 
   return (
